@@ -5,7 +5,7 @@ Guía completa de IA Generativa para educadores. Aprende a dominar ChatGPT, Gemi
 
 **De Cero a Experto: Domina ChatGPT, Gemini y IA Generativa**
 
-[![Licencia: MIT](https://img.shields.io/badge/Licencia-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Licencia: CC BY-NC-SA 4.0](https://img.shields.io/badge/Licencia-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Recurso Educativo](https://img.shields.io/badge/Recurso-Educativo-green.svg)]()
 [![Compartir](https://img.shields.io/badge/Compartir-Libremente-orange.svg)]()
 
