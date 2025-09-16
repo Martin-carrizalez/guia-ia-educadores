@@ -53,7 +53,7 @@ Esta guía completa te enseña a **revolucionar tu trabajo educativo** usando In
 ## 🌐 **Ver la Guía**
 
 ### 📖 **Versión Web Interactiva**
-👉 **[Ver Guía Completa](https://tu-usuario.github.io/guia-ia-educadores)**
+👉 **[Ver Guía Completa](https://martin-carrizalez.github.io/guia-ia-educadores/)**
 
 ### 📥 **Descargar PDF**
 👉 **[Descargar PDF](./guia-ia-educadores.pdf)** *(próximamente)*
@@ -89,9 +89,9 @@ Esta es una **guía viva** que mejora con la experiencia de la comunidad educati
 **QFB Martín Ángel Carrízalez Piña**  
 *Especialista en IA y Ciencia de Datos aplicada a la Educación*
 
-- 📧 **Email:** [tu-correo@gmail.com](mailto:tu-correo@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-- 💻 **GitHub:** [github.com/tu-usuario](https://github.com/tu-usuario)
+- 📧 **Email:** [martin.carrizalez0823@alumnos.udg.mx]
+- 💼 **LinkedIn:** [linkedin.com/in/tu-perfil](www.linkedin.com/in/martin-angel-carrizalez-pina-b55475371)
+- 💻 **GitHub:** [github.com/tu-usuario](https://github.com/Martin-carrizalez)
 
 ### 🌟 **¿Te sirvió esta guía?**
 - ⭐ Dale una estrella a este repositorio
@@ -100,9 +100,11 @@ Esta es una **guía viva** que mejora con la experiencia de la comunidad educati
 
 ## 📄 **Licencia**
 
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para detalles.
+## 📄 **Licencia**
 
-**TL;DR:** Puedes usar, modificar y compartir libremente, solo mantén los créditos originales.
+Este proyecto está bajo la Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International - ver el archivo [LICENSE](LICENSE) para detalles.
+
+**TL;DR:** Puedes usar, modificar y compartir libremente para fines educativos. Prohibido uso comercial. Siempre mantén los créditos originales y comparte bajo la misma licencia.
 
 ---
 
@@ -126,4 +128,4 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 **¿Listo para transformar tu trabajo educativo con IA?** 🚀
 
-👉 **[¡Comienza ahora con la guía!](https://tu-usuario.github.io/guia-ia-educadores)**
+👉 **[¡Comienza ahora con la guía!](https://martin-carrizalez.github.io/guia-ia-educadores/)**
