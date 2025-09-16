@@ -100,8 +100,6 @@ Esta es una **guía viva** que mejora con la experiencia de la comunidad educati
 
 ## 📄 **Licencia**
 
-## 📄 **Licencia**
-
 Este proyecto está bajo la Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International - ver el archivo [LICENSE](LICENSE) para detalles.
 
 **TL;DR:** Puedes usar, modificar y compartir libremente para fines educativos. Prohibido uso comercial. Siempre mantén los créditos originales y comparte bajo la misma licencia.
