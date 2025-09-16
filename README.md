@@ -90,8 +90,8 @@ Esta es una **guía viva** que mejora con la experiencia de la comunidad educati
 *Especialista en IA y Ciencia de Datos aplicada a la Educación*
 
 - 📧 **Email:** [martin.carrizalez0823@alumnos.udg.mx]
-- 💼 **LinkedIn:** [linkedin.com/in/tu-perfil](www.linkedin.com/in/martin-angel-carrizalez-pina-b55475371)
-- 💻 **GitHub:** [github.com/tu-usuario](https://github.com/Martin-carrizalez)
+- 💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/martin-angel-carrizalez-pina-b55475371)
+- 💻 **GitHub:** [GitHub](https://github.com/Martin-carrizalez)
 
 ### 🌟 **¿Te sirvió esta guía?**
 - ⭐ Dale una estrella a este repositorio
